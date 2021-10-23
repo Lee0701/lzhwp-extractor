@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "wtf_wikipedia": "^9.0.1",
+    "xml-js": "^1.6.11",
+    "xmljs": "^0.3.2"
+  }
+}
